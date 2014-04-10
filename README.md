@@ -1,4 +1,4 @@
-Entwine-BootRoot
+BootRoot
 ================
 
 Bootstrap WordPress Theme
